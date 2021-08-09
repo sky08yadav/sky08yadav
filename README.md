@@ -1,6 +1,7 @@
 👋 Hi, I’m AKASH or you can also call me 'SKY'
+-    I am from India, currently working in London.
 - 	 I’m interested in everything DATA SCIENCE.
-- 🌱 I’m always working on something. as my motto is "Never leave your self free" 
+- 🌱 I’m always working on something. as my motto is "Never leave your self free". 
 - 💞️ I’m always looking for collaboraters to work on the projects with as the saying goes two is always better than one. More than two are welcome as well. :)
 - 📫 Connect with me through Linkedin, twitter or send me a mail anytime. 
 
